@@ -1,0 +1,27 @@
+<idea-plugin>
+    <id>org.example.FileHeaderHelper</id>
+    <name>FileHeaderHelper</name>
+    <vendor email="zjbhnay@163.com" url="https://github.com/zjb-it">ZhaoJingBo</vendor>
+
+    <description><![CDATA[
+    Enter short description for your com.zjb.fileheader.plugin here.<br>
+    <em>most HTML tags may be used</em>
+    ]]></description>
+
+    <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+    <depends>com.intellij.modules.lang</depends>
+    <depends>com.intellij.modules.java</depends>
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+        <action id="FileHeader" class="com.zjb.fileheader.FileHeader" text="FileHeader">
+            <add-to-group group-id="GenerateGroup" anchor="last"/>
+            <keyboard-shortcut keymap="$default" first-keystroke="ctrl 1"/>
+        </action>
+    </actions>
+</idea-plugin>
