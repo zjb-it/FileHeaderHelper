@@ -4,16 +4,72 @@
     <vendor email="zjbhnay@163.com" url="https://github.com/zjb-it">ZhaoJingBo</vendor>
 
     <description><![CDATA[
-  <!DOCTYPE html>
+ <!DOCTYPE html>
 <html>
 <head>
-	<title>FileHeaderHelper</title>
+    <title>FileHeaderHelper</title>
 </head>
 
 <body>
 <p>This is a plugin for you can bulk manage file header for your java class.</p>
 <p><strong>This Plugin is only for IntelliJ IDEA</strong></p>
+<p>which is base on <a href='https://github.com/zjb-it/FileHeaderHelper.git'>FileHeaderHelper</a>
+    and more flexible and convenient. Welcome to issue and PR.</p>
+<h2>Install</h2>
+<ul>
+    <li><p>Using IDE built-in plugin system on Windows:</p>
+        <ul>
+            <li><kbd>File</kbd> &gt; <kbd>Settings</kbd> &gt; <kbd>Plugins</kbd> &gt; <kbd>Browse repositories...</kbd>
+                &gt; <kbd>Search for &quot;FileHeaderHelper&quot;</kbd> &gt; <kbd>Install Plugin</kbd></li>
+
+        </ul>
+    </li>
+    <li><p>Using IDE built-in plugin system on MacOs:</p>
+        <ul>
+            <li><kbd>Preferences</kbd> &gt; <kbd>Settings</kbd> &gt; <kbd>Plugins</kbd> &gt; <kbd>Browse
+                repositories...</kbd> &gt; <kbd>Search for &quot;FileHeaderHelper&quot;</kbd> &gt; <kbd>Install
+                Plugin</kbd></li>
+
+        </ul>
+    </li>
+    <li><p>Manually:</p>
+        <ul>
+            <li>Download the <a href='https://github.com/zjb-it/FileHeaderHelper/releases/'>latest release</a> and
+                install it manually using <kbd>Preferences</kbd> &gt; <kbd>Plugins</kbd> &gt; <kbd>Install plugin from
+                    disk...</kbd></li>
+            <!--			<li>From official jetbrains store from <a href='https://plugins.jetbrains.com/plugin/14949-gsonformatplus/'>download</a></li>-->
+
+        </ul>
+    </li>
+
+</ul>
+<p>Restart IDE.</p>
+<h2>Usages</h2>
+<ul>
+    <li>
+        <p>use idea menu</p>
+        <p><img src="https://raw.githubusercontent.com/zjb-it/FileHeaderHelper/master/idea-%20menu.png"></p>
+    </li>
+    <li>
+        <ul>
+
+            <li>
+                <p>use hotkey</p>
+                <p>Default <strong>CTRL + 1</strong> (win)</p>
+            </li>
+            <li>
+                <p>you can modify hotkey</p>
+                <p><img src="https://github.com/zjb-it/FileHeaderHelper/blob/master/modify-shortcut.png?raw=true"></p>
+            </li>
+        </ul>
+    </li>
+	<li>
+		<p>usage demo</p>
+		<p><img src="https://github.com/zjb-it/FileHeaderHelper/blob/master/usage-demo.gif?raw=true"></p>
+	</li>
+</ul>
 </body>
+</html>
     ]]></description>
 
     <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
