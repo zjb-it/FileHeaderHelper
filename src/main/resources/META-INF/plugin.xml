@@ -4,8 +4,16 @@
     <vendor email="zjbhnay@163.com" url="https://github.com/zjb-it">ZhaoJingBo</vendor>
 
     <description><![CDATA[
-    Enter short description for your com.zjb.fileheader.plugin here.<br>
-    <em>most HTML tags may be used</em>
+  <!DOCTYPE html>
+<html>
+<head>
+	<title>FileHeaderHelper</title>
+</head>
+
+<body>
+<p>This is a plugin for you can bulk manage file header for your java class.</p>
+<p><strong>This Plugin is only for IntelliJ IDEA</strong></p>
+</body>
     ]]></description>
 
     <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
