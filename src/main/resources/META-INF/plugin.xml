@@ -2,7 +2,11 @@
     <id>org.example.FileHeaderHelper</id>
     <name>FileHeaderHelper</name>
     <vendor email="zjbhnay@163.com" url="https://github.com/zjb-it">ZhaoJingBo</vendor>
-
+    <change-notes>
+    <![CDATA[
+    first version,support batch manage file header
+    ]]>
+</change-notes>
     <description><![CDATA[
  <!DOCTYPE html>
 <html>
