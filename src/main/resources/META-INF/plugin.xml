@@ -46,7 +46,7 @@
 <ul>
     <li>
         <p>use idea menu</p>
-        <p><img src="https://raw.githubusercontent.com/zjb-it/FileHeaderHelper/master/idea-%20menu.png"></p>
+        <p><img src="https://github.com/zjb-it/FileHeaderHelper/blob/master/Screenshot/idea-menu.png?raw=true"></p>
     </li>
     <li>
         <ul>
@@ -57,13 +57,13 @@
             </li>
             <li>
                 <p>you can modify hotkey</p>
-                <p><img src="https://github.com/zjb-it/FileHeaderHelper/blob/master/modify-shortcut.png?raw=true"></p>
+                <p><img src="https://github.com/zjb-it/FileHeaderHelper/blob/master/Screenshot/modify-shortcut.png?raw=true"></p>
             </li>
         </ul>
     </li>
 	<li>
 		<p>usage demo</p>
-		<p><img src="https://github.com/zjb-it/FileHeaderHelper/blob/master/usage-demo.gif?raw=true"></p>
+		<p><img src="https://github.com/zjb-it/FileHeaderHelper/blob/master/Screenshot/usage-demo.gif?raw=true"></p>
 	</li>
 </ul>
 </body>
