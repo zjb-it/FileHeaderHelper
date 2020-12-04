@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'com.github.zjb-it'
-version '1.0'
+version '2.0'
 
 repositories {
     mavenCentral()
@@ -20,7 +20,4 @@ intellij {
     plugins = ['java']
 }
 patchPluginXml {
-    changeNotes """
-      Add change notes here.<br>
-      <em>most HTML tags may be used</em>"""
 }

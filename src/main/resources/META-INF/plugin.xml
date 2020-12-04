@@ -1,12 +1,6 @@
 <idea-plugin>
-    <id>org.example.FileHeaderHelper</id>
+    <id>com.github.zjb-it</id>
     <name>FileHeaderHelper</name>
-    <vendor email="zjbhnay@163.com" url="https://github.com/zjb-it">ZhaoJingBo</vendor>
-    <change-notes>
-    <![CDATA[
-    first version,support batch manage file header
-    ]]>
-</change-notes>
     <description><![CDATA[
  <!DOCTYPE html>
 <html>
@@ -76,6 +70,16 @@
 </html>
     ]]></description>
 
+
+    <change-notes>
+        <![CDATA[
+    <p>2.0</p>
+    <ul>
+        <li>first version,support batch manage file header</li>
+        </ul>
+    ]]>
+    </change-notes>
+    <vendor email="zjbhnay@163.com" url="https://github.com/zjb-it">ZhaoJingBo</vendor>
     <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
          on how to target different products -->
     <depends>com.intellij.modules.platform</depends>
