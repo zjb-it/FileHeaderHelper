@@ -1,11 +1,11 @@
 <idea-plugin>
     <id>com.github.zjb-it</id>
-    <name>FileHeaderHelper</name>
+    <name>BatchModifyFileHeader</name>
     <description><![CDATA[
  <!DOCTYPE html>
 <html>
 <head>
-    <title>FileHeaderHelper</title>
+    <title>BatchModifyFileHeader</title>
 </head>
 
 <body>
